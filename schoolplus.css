@@ -5,13 +5,13 @@ body, html {
     font-family: Arial, sans-serif;
 }
 
-/* Global styles */
+/* sul */
 .container {
     width: 80%;
     margin: 0 auto;
 }
 
-/* Header */
+/* maglita nawili */
 .header {
     background-color: #333;
     color: #fff;
@@ -59,7 +59,7 @@ body, html {
     margin-top: 20px;
 }
 
-/* Features section */
+/* damatebebi */
 .features {
     padding: 80px 0;
     text-align: center;
@@ -79,7 +79,7 @@ body, html {
     color: #666;
 }
 
-/* Footer */
+/* footerrr */
 .footer {
     background-color: #333;
     color: #fff;
